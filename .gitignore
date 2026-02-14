@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional: outputs
+outputs/
+results/
+figures/

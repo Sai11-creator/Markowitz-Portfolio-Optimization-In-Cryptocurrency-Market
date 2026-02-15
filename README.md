@@ -55,15 +55,15 @@ Full definitions and metrics (Sharpe, max drawdown, diversification metric, etc.
   Extra/legacy notebook (can be moved to `drafts/`).
 
 ### Data
-The notebooks expect a CSV named `data.csv` with:
+The notebooks expect a CSV named `_data.csv` with:
 - One row per day
 - A `date` column
 - One column per asset price (20 assets)
 
-> Note: your current file is named `_data.csv`. Either rename it to `data.csv`, or update the notebooks to read `_data.csv`.
+
 
 ### Report
-- `Portfolio_optimization.pdf` (your final write-up)
+- `Portfolio_optimization.pdf` 
 
 
 

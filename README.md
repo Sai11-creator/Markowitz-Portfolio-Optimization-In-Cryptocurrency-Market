@@ -65,13 +65,6 @@ The notebooks expect a CSV named `data.csv` with:
 ### Report
 - `Portfolio_optimization.pdf` (your final write-up)
 
----
 
-## Quickstart
 
-### 1) Create a virtual environment
-```bash
-python -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-# .venv\Scripts\activate    # Windows
 

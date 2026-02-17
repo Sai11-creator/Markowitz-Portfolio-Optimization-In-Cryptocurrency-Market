@@ -4,7 +4,7 @@ This project investigates systematic portfolio construction in the cryptocurrenc
 Systematic portfolio construction in crypto using **constrained mean–variance (Markowitz) optimization** with a **risk-free cash allocation**, realistic risk controls, and robustness improvements.
 
 > Backtest window: **Jan 2022 → Jan 2024**  
-> Universe: **20 liquid crypto-assets + cash**  
+> Universe: **20 liquid crypto-assets + cash**   
 > Optimization: **CVXPY (ECOS/SCS)**
 
 ---

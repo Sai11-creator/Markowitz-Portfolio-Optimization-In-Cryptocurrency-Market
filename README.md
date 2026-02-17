@@ -1,5 +1,5 @@
 # Portfolio-Optimization-In-Cryptocurrency-Market
-This project investigates systematic portfolio construction in the cryptocurrency market using constrained mean–variance (Markowitz) optimization.# Portfolio Optimization in Cryptocurrency Markets
+This project investigates systematic portfolio construction in the cryptocurrency market using constrained mean–variance optimization.# Portfolio Optimization in Cryptocurrency Markets
 
 Systematic portfolio construction in crypto using **constrained mean–variance (Markowitz) optimization** with a **risk-free cash allocation**, realistic risk controls, and robustness improvements.
 

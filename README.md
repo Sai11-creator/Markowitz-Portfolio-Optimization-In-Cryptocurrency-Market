@@ -51,8 +51,7 @@ Full definitions and metrics (Sharpe, max drawdown, diversification metric, etc.
   Markowitz + Ledoit–Wolf covariance shrinkage.
 - `2_iv_Markowitz_LedoitWolf_D_min.ipynb`  
   Markowitz + Ledoit–Wolf + SOC diversification constraint (`D_min`).
-- `main_not_really_useful.ipynb`  
-  Extra/legacy notebook (can be moved to `drafts/`).
+
 
 ### Data
 The notebooks expect a CSV named `_data.csv` with:
